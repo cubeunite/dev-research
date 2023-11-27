@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/zll/esp/esp_projects/wifi_http/build/CMakeFiles/bootloader
+/home/zll/esp/esp_projects/wifi_http/build/CMakeFiles/bootloader.rule
+/home/zll/esp/esp_projects/wifi_http/build/CMakeFiles/bootloader-complete.rule
+/home/zll/esp/esp_projects/wifi_http/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/zll/esp/esp_projects/wifi_http/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/zll/esp/esp_projects/wifi_http/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/zll/esp/esp_projects/wifi_http/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/zll/esp/esp_projects/wifi_http/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/zll/esp/esp_projects/wifi_http/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/zll/esp/esp_projects/wifi_http/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
